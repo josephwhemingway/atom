@@ -84,3 +84,4 @@ repeat these steps to upgrade to future releases.
 
 When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 This is me adding a line to read.
+This is me adding another line to read.
